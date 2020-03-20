@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GridView</string>
+
+
+
+    <string name="Close">close</string>
+    <string name="Open">close</string>
+
+
+
+
+    <string name="dominos">Dominos</string>
+    <string name="Shoes">Shoes</string>
+
+</resources>
